@@ -1,0 +1,19 @@
+# Carpeta donde NetBeans compila y archivos de compilación
+build/
+build.xml
+
+# Carpeta del ejecutable y archivos relacionados
+dist/
+manifest.mf
+
+# Archivos de configuracion del IDE, especificos de tu maquina
+nbproject/
+nbproject/private/
+nb-configuration.xml
+
+# Archivos de cache
+nb-cache/
+
+# Archivos compilados o temporales
+*.jar
+*.class
