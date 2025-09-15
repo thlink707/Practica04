@@ -1,14 +1,36 @@
+package practica;
+
+
 import java.awt.Color;
 import java.awt.event.KeyEvent;
 import javax.swing.JTextField;
 
 public class frmKarasuno extends javax.swing.JFrame {
     
-Color colorOgJtf = new Color(232,223,213);
-Color colorNwJtf = new Color(219,187,167);
+    Jugador jugadores[];
+    
+    Color colorOgJtf = new Color(232,223,213);
+    Color colorNwJtf = new Color(219,187,167);
 
     public frmKarasuno() {
         initComponents();
+        jtfNombre.requestFocus();
+    }
+    public void limpiarCampos(){
+        JTextField[] campos = {
+            jtfNombre,
+            jtfEdad,
+            jtfEstatura,
+            jtfDorsal,
+            jtfPosicion
+        };
+        
+        //Recoorer todos los campos
+        for(JTextField campo : campos){
+            campo.setText("");
+            campo.setBackground(colorOgJtf);
+            campo.setEditable(true);
+        }
     }
 
     @SuppressWarnings("unchecked")

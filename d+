@@ -1,0 +1,29 @@
+[33mcommit c24f5cb8187d0a370e24b25c607938e2c03f09f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: thnlink707 <monsivais_th@outlook.com>
+Date:   Sun Sep 14 19:57:36 2025 -0600
+
+    package name
+
+[33mcommit 6697e0ddd0c2f82177ebeffa31e79a3585f7c5e7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: thnlink707 <monsivais_th@outlook.com>
+Date:   Sun Sep 14 14:13:39 2025 -0600
+
+    Creacion de la clase jugador
+
+[33mcommit ebb6f7d66d5fd7fe64414b3d0e07033511e0b93b[m
+Author: thnlink707 <monsivais_th@outlook.com>
+Date:   Sun Sep 14 14:07:09 2025 -0600
+
+    Requisitos establecidos en los textfield y acción al dar enter
+
+[33mcommit 91939bc36f00328e09069653dd90bf4f9928d7eb[m
+Author: thnlink707 <monsivais_th@outlook.com>
+Date:   Sun Sep 14 13:16:05 2025 -0600
+
+    Diseño del formulario con nombres de variables requeridos por objeto
+
+[33mcommit 7ca33f8400879236b059ae6e5ecf26a70a9a46f1[m
+Author: thnlink707 <monsivais_th@outlook.com>
+Date:   Sun Sep 14 12:08:22 2025 -0600
+
+    Primer commit de la pratica 4 con archivo .gitignore

@@ -1,3 +1,5 @@
+package practica;
+
 
 public class Jugador {
     private String nombre, posicion;
